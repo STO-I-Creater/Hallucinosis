@@ -1,0 +1,170 @@
+{
+    "passages": [
+        {
+            "text": "[[Start the Game]]\nThe player Wakes Up",
+            "links": [
+                {
+                    "name": "Start the Game",
+                    "link": "Start the Game",
+                    "pid": "2"
+                }
+            ],
+            "name": "Untitled Passage",
+            "pid": "1",
+            "position": {
+                "x": "500",
+                "y": "100"
+            }
+        },
+        {
+            "text": "\n* Chose an option.\nBlank Youve finally woken up\n[[What are you?]]\n[[What.... happened?]]\n[[Where... Where am I?]] ",
+            "links": [
+                {
+                    "name": "What are you?",
+                    "link": "What are you?",
+                    "pid": "4"
+                },
+                {
+                    "name": "What.... happened?",
+                    "link": "What.... happened?",
+                    "pid": "6"
+                },
+                {
+                    "name": "Where... Where am I?",
+                    "link": "Where... Where am I?",
+                    "pid": "5"
+                }
+            ],
+            "name": "Start the Game",
+            "pid": "2",
+            "position": {
+                "x": "450",
+                "y": "275"
+            }
+        },
+        {
+            "text": "",
+            "name": "Where am I?",
+            "pid": "3",
+            "position": {
+                "x": "1350",
+                "y": "800"
+            }
+        },
+        {
+            "text": "My name is Blank I'm the computer in charge of managing all the spaceships operations\n[[What.... happened?]] ",
+            "links": [
+                {
+                    "name": "What.... happened?",
+                    "link": "What.... happened?",
+                    "pid": "6"
+                }
+            ],
+            "name": "What are you?",
+            "pid": "4",
+            "position": {
+                "x": "450",
+                "y": "575"
+            }
+        },
+        {
+            "text": "You are currently in the living quarturs of the blank in the center of the space ship there \n[[What are you?]]\n[[What.... happened?]] ",
+            "links": [
+                {
+                    "name": "What are you?",
+                    "link": "What are you?",
+                    "pid": "4"
+                },
+                {
+                    "name": "What.... happened?",
+                    "link": "What.... happened?",
+                    "pid": "6"
+                }
+            ],
+            "name": "Where... Where am I?",
+            "pid": "5",
+            "position": {
+                "x": "650",
+                "y": "550"
+            }
+        },
+        {
+            "text": "I am....not sure, there was a power outagem and i was disconneted from the rest of the Ot approximatley 25 hours and 12 minutes ago i attempted rebooting the system to attempt and reconnect with the rest of the system.....the rest of me.\n[[And did you succeed?]]",
+            "links": [
+                {
+                    "name": "And did you succeed?",
+                    "link": "And did you succeed?",
+                    "pid": "7"
+                }
+            ],
+            "name": "What.... happened?",
+            "pid": "6",
+            "position": {
+                "x": "175",
+                "y": "550"
+            }
+        },
+        {
+            "text": "No. The rest of the system was fractured all accross the ship. i was unable to establish a connection with the rest of the system. From what i can tell. youre the only crewmate left alive. you need to get to the distress beacon and send for help. the findings of this mission cannot be lost.\n[[How do I get to the distress beacon]] ",
+            "links": [
+                {
+                    "name": "How do I get to the distress beacon",
+                    "link": "How do I get to the distress beacon",
+                    "pid": "8"
+                }
+            ],
+            "name": "And did you succeed?",
+            "pid": "7",
+            "position": {
+                "x": "100",
+                "y": "700"
+            }
+        },
+        {
+            "text": "Two ways out of here. First is the main door — straight to the cockpit, exactly where you need to be. Easy access to the distress beacon…But its locked.\nSecond option: the ventilation system. Longer, cramped, and it doesn’t reach the cockpit.\nThe door only opens from the centralized AI in the control room. Get there, connect me to the main computer, so i can unlock the door and we can call the distress beacon.\nWould you like to see a map?\n[[Yes]] ",
+            "links": [
+                {
+                    "name": "Yes",
+                    "link": "Yes",
+                    "pid": "9"
+                }
+            ],
+            "name": "How do I get to the distress beacon",
+            "pid": "8",
+            "position": {
+                "x": "625",
+                "y": "750"
+            }
+        },
+        {
+            "text": "Drop Spaceship map\n",
+            "name": "Yes",
+            "pid": "9",
+            "position": {
+                "x": "50",
+                "y": "925"
+            }
+        },
+        {
+            "text": "[[How do I get to the distress beacon]] ",
+            "links": [
+                {
+                    "name": "How do I get to the distress beacon",
+                    "link": "How do I get to the distress beacon",
+                    "pid": "8"
+                }
+            ],
+            "name": "No",
+            "pid": "10",
+            "position": {
+                "x": "250",
+                "y": "950"
+            }
+        }
+    ],
+    "name": "Hallucinosis",
+    "startnode": "1",
+    "creator": "Twine",
+    "creator-version": "2.11.1",
+    "ifid": "D04DA107-7361-475A-8159-41FA80A928E2"
+}

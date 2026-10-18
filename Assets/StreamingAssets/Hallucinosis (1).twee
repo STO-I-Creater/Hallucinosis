@@ -1,0 +1,29 @@
+:: StoryTitle
+terminal2
+
+:: StoryData
+{
+  "ifid": "90F6B753-BEB3-4163-B134-565B1AFC0D7B",
+  "format": "Twison",
+  "format-version": "0.0.1",
+  "start": "Start",
+  "zoom": 0.6
+}
+
+:: Start
+The terminal boots up, displaying a message.
+
+"TIMED OUT, RECONNECT FAILED. TRY AGAIN?"
+
+[[Yes|Yes]]
+
+:: Yes
+"CONNECTING...."  
+"SUCCESS!"  
+"Good job, I now have access to the ventilation sheets."
+
+[[Follow the yellow pipe.|Nice]]
+
+:: Nice
+"Follow the yellow pipe, it should take you to the bridge."  
+"X out when you are ready."

@@ -1,0 +1,55 @@
+:: StoryTitle
+Hallucinosis
+
+:: StoryData
+{
+  "ifid": "D04DA107-7361-475A-8159-41FA80A928E2",
+  "format": "Twison",
+  "format-version": "0.0.1",
+  "start": "Start",
+  "zoom": 0.6
+}
+
+:: Start {"position":"500,100","size":"100,100"}
+Blank, you've finally woken up.
+
+* Choose an option:
+[[What are you?]]
+[[What.... happened?]]
+[[Where... Where am I?]]
+
+:: What are you? {"position":"450,575","size":"100,100"}
+My name is Blank. I'm the computer in charge of managing all the spaceship's operations.
+
+[[What.... happened?]]
+
+:: What.... happened? {"position":"175,550","size":"100,100"}
+I am... not sure. There was a power outage and I was disconnected from the rest of the OT approximately 25 hours and 12 minutes ago. I attempted rebooting the system to reconnect with the rest of me.
+
+[[And did you succeed?]]
+
+:: And did you succeed? {"position":"100,700","size":"100,100"}
+No. The rest of the system was fractured across the ship. From what I can tell, you are the only crewmate left alive. You need to get to the distress beacon and send for help. The findings of this mission cannot be lost.
+
+[[How do I get to the distress beacon]]
+
+:: How do I get to the distress beacon {"position":"625,750","size":"100,100"}
+Two ways out of here. First is the main door — straight to the cockpit, exactly where you need to be. Easy access to the distress beacon… but it’s locked.
+Second option: the ventilation system. Longer, cramped, and it doesn’t reach the cockpit.
+The door only opens from the centralized AI in the control room. Get there, connect me to the main computer, so I can unlock the door and we can call the distress beacon.
+Would you like to see a map?
+
+[[Yes]]
+[[No]]
+
+:: Yes {"position":"50,925","size":"100,100"}
+Drop Spaceship map.
+
+:: No {"position":"250,950","size":"100,100"}
+[[How do I get to the distress beacon]]
+
+:: Where... Where am I? {"position":"650,550","size":"100,100"}
+You are currently in the living quarters of the Blank in the center of the spaceship.
+
+[[What are you?]]
+[[What.... happened?]]

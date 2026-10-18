@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e5449587bb871949bd1e664d1be6abd, type: 3}
+  m_Name: Map
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: Map
+  description: 
+  icon: {fileID: 142936352, guid: 6853be84e7a1d6d4eba24e3fe3b464ff, type: 3}
+  itemType: 3
+  isStackable: 0
+  healAmount: 0
+  consumptionSound: {fileID: 0}
+  consumptionVolume: 1

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: 5fd1e973e487bd140815cce9b6d8fcd4
+  - enabled: 1
+    path: Assets/Scenes/CutScene.unity
+    guid: 099c3514bee7aa141a589b30160b3910
+  - enabled: 1
+    path: Assets/Level 1.unity
+    guid: cbed7ad683c9e384a8409dbfd7fd8812
+  - enabled: 1
+    path: Assets/Scenes/WirePuzzle.unity
+    guid: 36ac92a47d495e04a9ad074ead384a84
+  - enabled: 1
+    path: Assets/Scenes/Maze.unity
+    guid: 0762a68e5374e424db19089ec5e50680
+  - enabled: 1
+    path: Assets/Scenes/ControlRoom.unity
+    guid: 5ca66db1216430c438382e06aab92149
+  - enabled: 1
+    path: Assets/TheLab.unity
+    guid: 57967a4eb76caea4fa7d52d385d70990
+  - enabled: 0
+    path: Assets/Scenes/Start Menu.unity
+    guid: 19cb3fccf2e211844b25ca4d4a0343ff
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/level11.unity
+    guid: ab7c9289d470454468a5107be443f4a2
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

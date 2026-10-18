@@ -1,0 +1,67 @@
+:: StoryTitle
+Hallucinosis
+
+:: StoryData
+{
+  "ifid": "D04DA107-7361-475A-8159-41FA80A928E2",
+  "format": "Twison",
+  "format-version": "0.0.1",
+  "start": "Start",
+  "zoom": 0.6
+}
+
+:: Start
+"You're awake. Finally."
+
+[[Who are you?|Who are you?]]
+[[What happened?|What happened?]]
+[[Where am I?|Where am I?]]
+
+:: Who are you?
+"I am C.A.S.C, the ship’s AI. Or what's left of me."
+
+[[What happened?|What happened?]]
+
+:: What happened?
+"Catastrophic power failure. My systems fragmented. All crew vitals dropped to zero except you."
+
+[[Fix?|Fix attempt]]
+[[How long?|How long?]]
+
+:: Fix attempt
+"I tried self-repair. Failed. To restore control, you must reach the central AI core."
+
+[[Plan?|Plan]]
+
+:: How long?
+"Twelve hours. Your vitals were unstable."
+
+[[Plan?|Plan]]
+
+:: Where am I?
+"Outside the relaxation vault, in the upper part of the Hallucinosis. You were in stasis before the outage."
+
+[[What happened?|What happened?]]
+[[Who are you?|Who are you?]]
+
+:: Plan
+"There are two paths."
+
+"Main door → fastest to the cockpit. Activate the escape beacon there."  
+"Checkpoint is closed under lockdown."
+
+[[Other path?|Plan2]]
+
+:: Plan2
+"Ventilation → cramped and slow, but bypasses the checkpoint. Leads to the cockpit."
+
+[[Map?|Map]]
+[[I’ll go.|Close Plan]]
+
+:: Map
+"Map uploaded. Some sections may be corrupted."
+
+[[Back.|Plan2]]
+
+:: Close Plan
+"X" out of the terminal and proceed when ready, and hurry!"

@@ -1,0 +1,2071 @@
+fileFormatVersion: 2
+guid: 1289eeba16869bf44bd62ec2d5ef1216
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1981821872827762250
+    second: juctiontile2.5_0
+  - first:
+      213: 679768323372260559
+    second: juctiontile2.5_1
+  - first:
+      213: -1428086332962996507
+    second: juctiontile2.5_2
+  - first:
+      213: -6576710828551295243
+    second: juctiontile2.5_3
+  - first:
+      213: 670466805824799977
+    second: juctiontile2.5_4
+  - first:
+      213: 7652799161923532010
+    second: juctiontile2.5_5
+  - first:
+      213: -152720096539471455
+    second: juctiontile2.5_6
+  - first:
+      213: 8741032731734249302
+    second: juctiontile2.5_7
+  - first:
+      213: -8679841067640597762
+    second: juctiontile2.5_8
+  - first:
+      213: 3324446172080196793
+    second: juctiontile2.5_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: juctiontile2.5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a468ff14e78d08b10800000000000000
+      internalID: 1981821872827762250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 194
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc9a2440b50f6900800000000000000
+      internalID: 679768323372260559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 194
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee7627eb0b6e2ce0800000000000000
+      internalID: -1428086332962996507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 194
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe2cb9a854dab4a0800000000000000
+      internalID: -6576710828551295243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 194
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4c0e2f10afd4900800000000000000
+      internalID: 670466805824799977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 194
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4fbdf9a44343a60800000000000000
+      internalID: 7652799161923532010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a193bf91ed61edf0800000000000000
+      internalID: -152720096539471455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 178
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f051125f26e4970800000000000000
+      internalID: 8741032731734249302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 178
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef25f6869820b8780800000000000000
+      internalID: -8679841067640597762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 178
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc4fb90e2ec22e20800000000000000
+      internalID: 3324446172080196793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 178
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbf263f12fb4e240ab9e8ebb25d3d30
+      internalID: -863237587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 178
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6d27f9e1f5a3e4a8fa80e12540c0a5
+      internalID: -1941667119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 178
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e63418ef2873c74daeda28d3d46a518
+      internalID: 1572917581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda73c618f6cd2043a4ae98e636fa4bc
+      internalID: -712735753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2899bd064319c4f843e5b90f0095b0
+      internalID: -1909124894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1949f5c7acf70e45991381974ec5977
+      internalID: 1543394899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255894610c9a44649b2ae175e84b813a
+      internalID: 2058990225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51e750f991b3db4eac183f09e510bf9
+      internalID: 205769594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe28a612ca16eb46bd95b0387b512c7
+      internalID: 1879875995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fa2cf8730a8724a86beef057dee24e
+      internalID: 1830453777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017e875f7841a1d459bd632a78c317a1
+      internalID: 596691425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9056cfeba9a9d8f4eb86b48344f164e8
+      internalID: 2012927037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbeb851341c45b4f8edb38927c2038f
+      internalID: -986899967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5f2bc26fe68f744a25165a2edc9a4b
+      internalID: -221302407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a1a2d69089b054d9930c55ced6c000
+      internalID: -902469237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33ddafd77585dd41a05cb71f693dfb9
+      internalID: 1526698339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4615d9b03773a624a92e27a94ef724dd
+      internalID: -1372042039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83109273a6e1a764a97f50a176ce9fad
+      internalID: 1050041655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe0873777e73ee4c96876142309acc5
+      internalID: -1741662608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0297fb18fe648c4eb9c2db33204171d
+      internalID: -725361262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec7d650d9355b446b1fa3d3fe9978c1
+      internalID: -1540315101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a006e26ee1fde044798ed06a76627930
+      internalID: 1575491032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c30fa35ea817e4ea3f52c3ec23cde7
+      internalID: -351363132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9706640ec75de4e9bed24a360ec3de
+      internalID: 351482216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c538b46bdd49da947aa10f539cce19b0
+      internalID: -1518858213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46caee47f59c2454bb2d19a2c5ab8b7c
+      internalID: 674740280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2f450944343ff4aace7bca38d53745
+      internalID: -2124086908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fc4c18a98493348835ea84b1a8ee6c
+      internalID: 1684869610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60071deb0cc51654a8daa1da21c110af
+      internalID: 1768173470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dc125e420440c47beeec914169d726
+      internalID: -212688390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd428913b38f3ef43bd6d86633215a4f
+      internalID: 1786568712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67f73aae8027924d84fbd6204a54b94
+      internalID: -1361532687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfed6825aa6db7c41967ea35e8cd1fbc
+      internalID: -2003917312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382c34f6c19f6b440b227b3a79be5175
+      internalID: 347425172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30609817f10df874391ab2c516bc2861
+      internalID: -463629394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9211ac3cf5458c4f86690bb4e974669
+      internalID: -1915092904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d714e7068370a6a43a2de56d2652fbbb
+      internalID: 562969236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_47
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f320f1db282cea5469762021332b5c92
+      internalID: 339550940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca4f53ab5264b842987ea98017ae707
+      internalID: -1984056078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9dec97064acd44ba421ef70b51c1e9
+      internalID: 66997090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b9edf9b147aa646ae8dbd301581aa3
+      internalID: 1042592357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_51
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46ab2a6cefb41749913c7b671de7731
+      internalID: 2118904130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_52
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa61f6cb8e06a84ab2d12646813a361
+      internalID: 773406063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df3ab6be62614542b0e9bdf5cd54b56
+      internalID: -1993570027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5bc8337adda00459cc63b78b66024f
+      internalID: 1867220337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbac44329fa97848b3fc8950fcbe7af
+      internalID: 190648653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c8ed88ad6987343aceb728b7b089c6
+      internalID: 663812482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7845247228b88a84897044b007aadb91
+      internalID: -277257335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d71181592412643b5236de0522c272
+      internalID: -1170053699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebecbf98e7270a14faa6099c4a3fd1a5
+      internalID: 612028239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_60
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280881be2a6c6484f9414196d452e053
+      internalID: 846312022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_61
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216b205894afff243b82a16faedec398
+      internalID: 611831566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf968d577c3292b419e4596c2e538743
+      internalID: 798804247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecf132211520bd4eb7e0af301b63877
+      internalID: 1365232569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_64
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f589f9e3108a1da46ae532db529fdbf8
+      internalID: -1285740487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f514de44ff495439ed80d87ce7a986
+      internalID: -1964011412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bdd4554223daa4387788452ff8bb84
+      internalID: 1407708543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c2c44866e5fd44698ed9fcbdb48717
+      internalID: 402046456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_68
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5638c9e8ea560334b87b94dce382b35a
+      internalID: 434432022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bdc240a45a1c347b5fa647a6aa37b4
+      internalID: -1891430886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a3f49120aeeaf4d94850b428a1fc97
+      internalID: 339749670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247734944cb57514bb592295a15e381d
+      internalID: -596780541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_72
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83918dfe060d7a4b98fe0603efaa2c0
+      internalID: -1460595452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06fd11d695b57d4cbcb70a8f745e3bb
+      internalID: -485907268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_74
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8976d07c58c9d46a8fe4de75e2c9a5
+      internalID: -84924934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_75
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a04b248651de94b8f9374d0589b216
+      internalID: -968554964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_76
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e67b008e92e874f872ead5906a5359
+      internalID: -1821661161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_77
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df1a5c5c364213449aff904837f7fb6
+      internalID: 302666712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_78
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c5e5239dc5dea4694102758e0cbd6c
+      internalID: 1639770683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154f8c898d24b9448a0c76680e165dcb
+      internalID: 65810933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1a6ac68c19c5a4bbaa5f9000281217
+      internalID: 796974423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6411b5035efa09b4d8fd27389c75cff4
+      internalID: -1986239437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juctiontile2.5_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7f5906cab4efe45aa415948e386d04
+      internalID: 1912327886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 616a43220f05efa48959508a31b0cbaa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      juctiontile2.5_0: 1981821872827762250
+      juctiontile2.5_1: 679768323372260559
+      juctiontile2.5_10: -863237587
+      juctiontile2.5_11: -1941667119
+      juctiontile2.5_12: 1572917581
+      juctiontile2.5_13: -712735753
+      juctiontile2.5_14: -1909124894
+      juctiontile2.5_15: 1543394899
+      juctiontile2.5_16: 2058990225
+      juctiontile2.5_17: 205769594
+      juctiontile2.5_18: 1879875995
+      juctiontile2.5_19: 1830453777
+      juctiontile2.5_2: -1428086332962996507
+      juctiontile2.5_20: 596691425
+      juctiontile2.5_21: 2012927037
+      juctiontile2.5_22: -986899967
+      juctiontile2.5_23: -221302407
+      juctiontile2.5_24: -902469237
+      juctiontile2.5_25: 1526698339
+      juctiontile2.5_26: -1372042039
+      juctiontile2.5_27: 1050041655
+      juctiontile2.5_28: -1741662608
+      juctiontile2.5_29: -725361262
+      juctiontile2.5_3: -6576710828551295243
+      juctiontile2.5_30: -1540315101
+      juctiontile2.5_31: 1575491032
+      juctiontile2.5_32: -351363132
+      juctiontile2.5_33: 351482216
+      juctiontile2.5_34: -1518858213
+      juctiontile2.5_35: 674740280
+      juctiontile2.5_36: -2124086908
+      juctiontile2.5_37: 1684869610
+      juctiontile2.5_38: 1768173470
+      juctiontile2.5_39: -212688390
+      juctiontile2.5_4: 670466805824799977
+      juctiontile2.5_40: 1786568712
+      juctiontile2.5_41: -1361532687
+      juctiontile2.5_42: -2003917312
+      juctiontile2.5_43: 347425172
+      juctiontile2.5_44: -463629394
+      juctiontile2.5_45: -1915092904
+      juctiontile2.5_46: 562969236
+      juctiontile2.5_47: 339550940
+      juctiontile2.5_48: -1984056078
+      juctiontile2.5_49: 66997090
+      juctiontile2.5_5: 7652799161923532010
+      juctiontile2.5_50: 1042592357
+      juctiontile2.5_51: 2118904130
+      juctiontile2.5_52: 773406063
+      juctiontile2.5_53: -1993570027
+      juctiontile2.5_54: 1867220337
+      juctiontile2.5_55: 190648653
+      juctiontile2.5_56: 663812482
+      juctiontile2.5_57: -277257335
+      juctiontile2.5_58: -1170053699
+      juctiontile2.5_59: 612028239
+      juctiontile2.5_6: -152720096539471455
+      juctiontile2.5_60: 846312022
+      juctiontile2.5_61: 611831566
+      juctiontile2.5_62: 798804247
+      juctiontile2.5_63: 1365232569
+      juctiontile2.5_64: -1285740487
+      juctiontile2.5_65: -1964011412
+      juctiontile2.5_66: 1407708543
+      juctiontile2.5_67: 402046456
+      juctiontile2.5_68: 434432022
+      juctiontile2.5_69: -1891430886
+      juctiontile2.5_7: 8741032731734249302
+      juctiontile2.5_70: 339749670
+      juctiontile2.5_71: -596780541
+      juctiontile2.5_72: -1460595452
+      juctiontile2.5_73: -485907268
+      juctiontile2.5_74: -84924934
+      juctiontile2.5_75: -968554964
+      juctiontile2.5_76: -1821661161
+      juctiontile2.5_77: 302666712
+      juctiontile2.5_78: 1639770683
+      juctiontile2.5_79: 65810933
+      juctiontile2.5_8: -8679841067640597762
+      juctiontile2.5_80: 796974423
+      juctiontile2.5_81: -1986239437
+      juctiontile2.5_82: 1912327886
+      juctiontile2.5_9: 3324446172080196793
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

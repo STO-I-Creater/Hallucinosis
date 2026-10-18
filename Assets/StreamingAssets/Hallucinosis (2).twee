@@ -1,0 +1,98 @@
+:: StoryTitle
+Hallucinosis
+
+
+:: StoryData
+{
+  "ifid": "D04DA107-7361-475A-8159-41FA80A928E2",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Start",
+  "zoom": 1
+}
+
+
+:: Close Plan {"position":"1000,325","size":"100,100"}
+""X" out of the terminal and proceed when ready, and hurry! Time is not on our side."
+
+
+
+:: Fix attempt {"position":"525,250","size":"100,100"}
+"I attempted self-repair. Failed. My fragments won’t respond."  
+"To restore control, you must reach the central AI core in the bridge."
+
+[[What's the plan?|Plan]]
+
+
+:: How long? {"position":"525,25","size":"100,100"}
+"Twelve hours. Your vitals were unstable.  
+Statistically, you shouldn't be conscious."
+
+[[What's the plan?|Plan]]
+
+
+:: Map {"position":"1275,25","size":"100,100"}
+A hologram flickers, half corrupted.
+
+"Map uploaded. Sections may be inaccurate. The ship… changed after the outage."
+
+[[Back.|Plan2]]
+
+
+:: Plan {"position":"1525,325","size":"100,100"}
+"There are two paths out of this room."
+
+"Main door → shortest path to the bridge, where you can repair me and I can call for help."  
+"But the high security checkpoint is closed under system lockdown."
+
+[[And the other path?|Plan2]]
+
+
+:: Plan2 {"position":"1550,175","size":"100,100"}
+"The ventilation system → cramped, slow and dangerous. But it bypasses the checkpoint and leads to the bridge.."  
+"Reconnect me to the core there, and I can activate the distress beacon."
+
+[[Show me a map.|Map]]
+[[I’ll figure it out.|Close Plan]]
+
+
+
+:: Start {"position":"25,25","size":"100,100"}
+The terminal beside you flickers alive.  
+A voice, thin and glitched, crawls through the speaker.
+
+"You're awake. Finally."
+
+[[Who are you?|Who are you?]]
+[[What happened?|What happened?]]
+[[Where am I?|Where am I?]]
+[[Why does everything feel wrong?|Why wrong?]]
+
+
+:: What happened? {"position":"225,25","size":"100,100"}
+"Catastrophic power failure, not sure what caused it. My systems fragmented across the ship.  
+All crew vitals dropped to zero not long after, except for you."
+
+[[Did you try to fix it?|Fix attempt]]
+[[How long was I unconscious?|How long?]]
+
+
+:: Where am I? {"position":"650,25","size":"100,100"}
+"Right outside the relaxation vault, in the upper part of the Hallucinosis. You were in stasis before the power failure."
+
+[[What happened?|What happened?]]
+[[Who are you?|Who are you?]]
+
+
+:: Who are you? {"position":"225,200","size":"100,100"}
+"I am C.A.S.C, the ship’s operational intelligence. Or what's left of me."
+
+[[What happened?|What happened?]]
+
+
+
+:: Why wrong? {"position":"375,475","size":"100,100"}
+"The power failure must have messed with your relaxation pod. Its logical to assume you have suffered some sort of brain damage considering how much of a miracle you even waking up in the first place is. "  
+"You may experience hallucinations. Don’t trust everything you see."
+
+[[What happened?|What happened?]]
